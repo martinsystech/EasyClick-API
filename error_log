@@ -1,0 +1,2 @@
+[17-Apr-2018 16:11:16 UTC] PHP Fatal error:  Cannot redeclare M_directorio::GetNovedadesInicio() in /home/msolorzano/easyclick/API/application/models/M_directorio.php on line 153
+[17-Apr-2018 16:11:21 UTC] PHP Fatal error:  Cannot redeclare M_directorio::GetNovedadesInicio() in /home/msolorzano/easyclick/API/application/models/M_directorio.php on line 153
